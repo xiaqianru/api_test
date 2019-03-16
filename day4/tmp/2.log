@@ -1,0 +1,12 @@
+2019-03-10 11:51:14,842 [day4_use_logging.py ] 19 <module> DEBUG 调试级别的日志
+2019-03-10 11:51:14,842 [day4_use_logging.py ] 20 <module> INFO 信息级别的日志
+2019-03-10 11:51:14,842 [day4_use_logging.py ] 21 <module> WARNING 警号级别的日志
+2019-03-10 11:51:14,842 [day4_use_logging.py ] 22 <module> ERROR 错误级别的日志
+2019-03-10 11:51:14,842 [day4_use_logging.py ] 23 <module> CRITICAL 严重错误级别的日志
+2019-03-10 11:54:38,708 [db.py ] 13 query DEBUG 查询SQl：select cardNumber from cardinfo where cardNumber='2019030500'
+2019-03-10 11:54:38,737 [db.py ] 16 query DEBUG 查询结果：()
+2019-03-10 11:54:38,737 [db.py ] 34 is_card_exist DEBUG 该卡不存在
+2019-03-10 11:54:38,737 [db.py ] 39 def_card_if_exist DEBUG 查询卡：2019030500 是否存在
+2019-03-10 11:54:38,737 [db.py ] 13 query DEBUG 查询SQl：select cardNumber from cardinfo where cardNumber='2019030500'
+2019-03-10 11:54:38,767 [db.py ] 16 query DEBUG 查询结果：()
+2019-03-10 11:54:38,767 [db.py ] 34 is_card_exist DEBUG 该卡不存在

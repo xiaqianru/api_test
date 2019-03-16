@@ -1,0 +1,5 @@
+2019-03-10 11:43:50,676 [day4_use_logging.py ] 10 <module> DEBUG 调试级别的日志
+2019-03-10 11:43:50,678 [day4_use_logging.py ] 11 <module> INFO 信息级别的日志
+2019-03-10 11:43:50,678 [day4_use_logging.py ] 12 <module> WARNING 警号级别的日志
+2019-03-10 11:43:50,679 [day4_use_logging.py ] 13 <module> ERROR 错误级别的日志
+2019-03-10 11:43:50,679 [day4_use_logging.py ] 14 <module> CRITICAL 严重错误级别的日志

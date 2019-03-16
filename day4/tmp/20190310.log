@@ -1,0 +1,22 @@
+2019-03-10 11:58:47,383 [db.py ] 13 query DEBUG 查询SQl：select cardNumber from cardinfo where cardNumber='2019030500'
+2019-03-10 11:58:47,411 [db.py ] 16 query DEBUG 查询结果：()
+2019-03-10 11:58:47,411 [db.py ] 34 is_card_exist DEBUG 该卡不存在
+2019-03-10 11:58:47,412 [db.py ] 39 def_card_if_exist DEBUG 查询卡：2019030500 是否存在
+2019-03-10 11:58:47,412 [db.py ] 13 query DEBUG 查询SQl：select cardNumber from cardinfo where cardNumber='2019030500'
+2019-03-10 11:58:47,446 [db.py ] 16 query DEBUG 查询结果：()
+2019-03-10 11:58:47,447 [db.py ] 34 is_card_exist DEBUG 该卡不存在
+2019-03-10 12:00:15,258 [db.py ] [13] [query] [DEBUG] 查询SQl：select cardNumber from cardinfo where cardNumber='2019030500'
+2019-03-10 12:00:15,283 [db.py ] [16] [query] [DEBUG] 查询结果：()
+2019-03-10 12:00:15,283 [db.py ] [34] [is_card_exist] [DEBUG] 该卡不存在
+2019-03-10 12:00:15,283 [db.py ] [39] [def_card_if_exist] [DEBUG] 查询卡：2019030500 是否存在
+2019-03-10 12:00:15,283 [db.py ] [13] [query] [DEBUG] 查询SQl：select cardNumber from cardinfo where cardNumber='2019030500'
+2019-03-10 12:00:15,308 [db.py ] [16] [query] [DEBUG] 查询结果：()
+2019-03-10 12:00:15,308 [db.py ] [34] [is_card_exist] [DEBUG] 该卡不存在
+2019-03-10 12:00:47,182 [db.py ] [13] [query] [DEBUG]: 查询SQl：select cardNumber from cardinfo where cardNumber='2019030500'
+2019-03-10 12:00:47,211 [db.py ] [16] [query] [DEBUG]: 查询结果：(('2019030500',),)
+2019-03-10 12:00:47,211 [db.py ] [31] [is_card_exist] [DEBUG]: 该卡存在
+2019-03-10 12:00:47,211 [db.py ] [39] [def_card_if_exist] [DEBUG]: 查询卡：2019030500 是否存在
+2019-03-10 12:00:47,211 [db.py ] [13] [query] [DEBUG]: 查询SQl：select cardNumber from cardinfo where cardNumber='2019030500'
+2019-03-10 12:00:47,239 [db.py ] [16] [query] [DEBUG]: 查询结果：(('2019030500',),)
+2019-03-10 12:00:47,239 [db.py ] [31] [is_card_exist] [DEBUG]: 该卡存在
+2019-03-10 12:00:47,275 [db.py ] [43] [def_card_if_exist] [DEBUG]: 删除成功
