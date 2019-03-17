@@ -1,0 +1,38 @@
+__file__  当前文件
+
+
+git config --global user.name "你的姓名"
+git config --global user.name "hanzhichao123"
+git config --global user.email "你的邮箱"
+git config --global user.email "superhin@126.com"
+git init
+git checkout -b "你的名字拼音"
+git checkout -b "xiaqianru"
+git add .
+git commit -a -m "完成"
+
+git remote add origin https://gitee.com/hanzhichao/longteng15.git
+git remote add origin https://github.com/xiaqianru/api_test.git
+git push -u origin 你的名拼音
+
+输入账号密码:
+
+superhin@126.com
+hanzhichao123
+
+git checkout -b "xiaqianru"   新加分支
+
+git add .          所有文件都加入监事列表
+
+
+git config --global user.name "hanzhichao123"
+git config --global user.email "superhin@126.com"
+git init
+git checkout -b "xiaqianru"
+git add .
+git commit -m "完成"
+
+git remote add origin https://gitee.com/hanzhichao/longteng15.git
+
+
+git push -u origin xiaqianru

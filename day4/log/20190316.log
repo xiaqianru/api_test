@@ -1,0 +1,23 @@
+2019-03-16 12:38:59,694 [run.py ] [11] [main] [INFO]: =========================测试开始=========================
+2019-03-16 12:38:59,845 [basecase.py ] [16] [get_case_data] [INFO]: 执行用例：添加加油卡 ：同一账号添加第3个加油卡----------
+2019-03-16 12:38:59,845 [basecase.py ] [25] [run_case] [INFO]: 请求url：http://115.28.108.130:8080/gasStation/process
+2019-03-16 12:38:59,845 [basecase.py ] [26] [run_case] [INFO]: 请求data：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019-03-16 12:38:59,846 [basecase.py ] [27] [run_case] [INFO]: 期望结果：{'code': 200, 'msg': '添加卡成功', 'success': False}
+2019-03-16 12:38:59,925 [basecase.py ] [34] [run_case] [INFO]: 实际结果：{"code":5000,"msg":"该卡已添加","success":false}
+2019-03-16 12:38:59,927 [basecase.py ] [16] [get_case_data] [INFO]: 执行用例：添加加油卡 ：参数相同，重复添加----------
+2019-03-16 12:38:59,927 [basecase.py ] [25] [run_case] [INFO]: 请求url：http://115.28.108.130:8080/gasStation/process
+2019-03-16 12:38:59,927 [basecase.py ] [26] [run_case] [INFO]: 请求data：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019-03-16 12:38:59,927 [basecase.py ] [27] [run_case] [INFO]: 期望结果：{'code': 5000, 'msg': '该卡已添加', 'success': False}
+2019-03-16 12:38:59,996 [basecase.py ] [34] [run_case] [INFO]: 实际结果：{"code":5000,"msg":"该卡已添加","success":false}
+2019-03-16 12:38:59,996 [basecase.py ] [16] [get_case_data] [INFO]: 执行用例：添加加油卡 ：接口、参数正确----------
+2019-03-16 12:39:00,028 [basecase.py ] [25] [run_case] [INFO]: 请求url：http://115.28.108.130:8080/gasStation/process
+2019-03-16 12:39:00,028 [basecase.py ] [26] [run_case] [INFO]: 请求data：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019-03-16 12:39:00,028 [basecase.py ] [27] [run_case] [INFO]: 期望结果：{'code': 200, 'msg': '添加卡成功', 'success': False}
+2019-03-16 12:39:00,102 [basecase.py ] [34] [run_case] [INFO]: 实际结果：{"code":200,"msg":"添加卡成功","success":false}
+2019-03-16 12:39:00,199 [basecase.py ] [16] [get_case_data] [INFO]: 执行用例：添加加油卡 ：同一账号添加第2个加油卡----------
+2019-03-16 12:39:00,232 [basecase.py ] [25] [run_case] [INFO]: 请求url：http://115.28.108.130:8080/gasStation/process
+2019-03-16 12:39:00,232 [basecase.py ] [26] [run_case] [INFO]: 请求data：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '09876543219'}}
+2019-03-16 12:39:00,232 [basecase.py ] [27] [run_case] [INFO]: 期望结果：{'code': 200, 'msg': '添加卡成功', 'success': False}
+2019-03-16 12:39:00,299 [basecase.py ] [34] [run_case] [INFO]: 实际结果：{"code":200,"msg":"添加卡成功","success":false}
+2019-03-16 12:39:00,377 [basecase.py ] [16] [get_case_data] [INFO]: 执行用例：添加加油卡 ：入参格式错误----------
+2019-03-16 12:39:00,612 [run.py ] [17] [main] [INFO]: =========================测试结束=========================

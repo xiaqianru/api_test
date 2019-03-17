@@ -1,0 +1,272 @@
+2019/03/17 11:59:24 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：添加加油卡
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 11:59:24 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：添加加油卡
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 11:59:24 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：添加加油卡
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 11:59:24 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：添加加油卡
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 11:59:24 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第5.0条用LI：添加加油卡
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 11:59:24 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第6.0条用LI：添加加油卡
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 11:59:24 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第7.0条用LI：添加加油卡
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 11:59:24 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第8.0条用LI：添加加油卡
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 11:59:24 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：添加加油卡
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：接口、参数正确，请求头：None，请求体：None
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：添加加油卡
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：参数相同，重复添加，请求头：None，请求体：None
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：添加加油卡
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：同一账号添加第2个加油卡，请求头：None，请求体：None
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：添加加油卡
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：同一账号添加第3个加油卡，请求头：None，请求体：None
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第5.0条用LI：添加加油卡
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：入参格式错误，请求头：None，请求体：None
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第6.0条用LI：添加加油卡
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：缺少参数-缺少第三方账号，请求头：None，请求体：None
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第7.0条用LI：添加加油卡
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：缺少参数-缺少第三方业务，请求头：None，请求体：None
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第8.0条用LI：添加加油卡
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:00:21 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:00:21 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：缺少参数-缺少卡号，请求头：None，请求体：None
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：添加加油卡
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：接口、参数正确，请求头：None，请求体：None
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：添加加油卡
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：参数相同，重复添加，请求头：None，请求体：None
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：添加加油卡
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：同一账号添加第2个加油卡，请求头：None，请求体：None
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：添加加油卡
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：同一账号添加第3个加油卡，请求头：None，请求体：None
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第5.0条用LI：添加加油卡
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：入参格式错误，请求头：None，请求体：None
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第6.0条用LI：添加加油卡
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：缺少参数-缺少第三方账号，请求头：None，请求体：None
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第7.0条用LI：添加加油卡
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：缺少参数-缺少第三方业务，请求头：None，请求体：None
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第8.0条用LI：添加加油卡
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http
+2019/03/17 12:15:52 [utils.py ] [9] [json2dict] [ERROR]: json格式错误：http://115.28.108.130:8080/gasStation/process
+2019/03/17 12:15:52 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：向平台数据库添加加油卡，url：缺少参数-缺少卡号，请求头：None，请求体：None
+2019/03/17 12:22:55 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 12:22:55 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 12:22:55 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 12:22:55 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 12:22:55 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 12:22:55 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 12:22:55 [test_add_fuel_card.py ] [27] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 12:22:55 [test_add_fuel_card.py ] [30] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 12:30:41 [run.py ] [11] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 12:30:41 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 12:30:41 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 12:30:41 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 12:30:41 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 12:30:41 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 12:30:41 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 12:30:41 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 12:30:41 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 12:30:41 [run.py ] [14] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 12:35:17 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 12:35:17 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 12:35:17 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 12:35:17 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 12:35:17 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 12:35:17 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 12:35:18 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 12:35:18 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 12:35:45 [run.py ] [11] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 12:35:45 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 12:35:45 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 12:35:45 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 12:35:45 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 12:35:45 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 12:35:45 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 12:35:45 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 12:35:45 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 12:35:45 [run.py ] [14] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 13:29:48 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 13:29:48 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 13:29:48 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 13:29:48 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 13:29:48 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 13:29:48 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 13:29:48 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 13:29:48 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:37:11 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:37:11 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:37:11 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:37:11 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:37:11 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:37:11 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:37:11 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:37:12 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:37:12 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:37:12 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:37:57 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:37:57 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:37:57 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:37:57 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:37:57 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:37:57 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:37:57 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:37:57 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:37:57 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:37:57 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:38:19 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:38:20 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:38:20 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:38:20 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:38:20 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:38:20 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:38:20 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:38:20 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:38:20 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:38:20 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:42:14 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:42:14 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:42:14 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:42:14 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:42:14 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:42:14 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:42:14 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:42:14 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:42:14 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:42:15 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:47:29 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:47:29 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:47:29 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:47:29 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:47:29 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:47:29 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:47:29 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:47:29 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:47:29 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:47:29 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:49:02 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:49:02 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:49:02 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:49:02 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:49:02 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:49:02 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:49:02 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:49:02 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:49:02 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:49:02 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:49:59 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:49:59 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:49:59 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:49:59 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:49:59 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:49:59 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:49:59 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:49:59 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:49:59 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:50:00 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:50:41 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:50:41 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:50:41 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:50:41 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:50:41 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:50:41 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:50:41 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:50:42 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:50:42 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:50:42 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:51:05 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:51:05 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:51:05 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:51:05 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:51:05 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:51:05 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:51:05 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:51:05 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:51:05 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:51:06 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:52:15 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:52:15 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:52:15 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:52:15 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:52:15 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:52:16 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:52:16 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:52:16 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:52:16 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:52:16 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:52:37 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:52:37 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:52:37 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:52:37 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:52:37 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:52:37 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:52:37 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:52:37 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:52:37 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:52:37 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:52:44 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:52:44 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:52:44 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:52:44 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:52:44 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:52:44 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:52:44 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:52:45 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:52:45 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:52:45 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 14:53:08 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 14:53:08 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 14:53:08 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 14:53:08 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 14:53:08 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 14:53:08 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 14:53:08 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 14:53:08 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 14:53:08 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 14:53:09 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========
+2019/03/17 15:01:16 [run.py ] [15] [run_all] [INFO]: ===========测试开始执行==========
+2019/03/17 15:01:16 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第1.0条用LI：接口、参数正确
+2019/03/17 15:01:16 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '1234567890'}}
+2019/03/17 15:01:16 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第2.0条用LI：参数相同，重复添加
+2019/03/17 15:01:16 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '123456'}}
+2019/03/17 15:01:16 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第3.0条用LI：同一账号添加第2个加油卡
+2019/03/17 15:01:16 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '0987654321'}}
+2019/03/17 15:01:16 [test_add_fuel_card.py ] [26] [test_add_fuel_card] [INFO]: 执行第4.0条用LI：同一账号添加第3个加油卡
+2019/03/17 15:01:16 [test_add_fuel_card.py ] [29] [test_add_fuel_card] [INFO]: 请求方法：POST，url：http://115.28.108.130:8080/gasStation/process，请求头：None，请求体：{'dataSourceId': 'bHRz', 'methodId': '00A', 'CardInfo': {'cardNumber': '6789054321'}}
+2019/03/17 15:01:16 [run.py ] [18] [run_all] [INFO]: ===========测试执行结束==========

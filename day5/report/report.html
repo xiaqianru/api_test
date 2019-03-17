@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>我的接口测试报告</title>
+    <title>接口测试报告</title>
     <meta name="generator" content="HTMLTestRunner 0.9.1"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     
@@ -195,15 +195,13 @@
     <div id="div_base">
         
     <div class='page-header'>
-        <h1>我的接口测试报告</h1>
-    <p class='attribute'><strong>开始时间:</strong> 2019-03-17 16:01:16</p>
-<p class='attribute'><strong>运行时长:</strong> 0:00:01.662095</p>
-<p class='attribute'><strong>状态:</strong> 通过 3 失败 4 错误 1</p>
+        <h1>接口测试报告</h1>
+    <p class='attribute'><strong>开始时间:</strong> 2019-03-17 15:01:16</p>
+<p class='attribute'><strong>运行时长:</strong> 0:00:00.751043</p>
+<p class='attribute'><strong>状态:</strong> 通过 4 失败 2</p>
 
     </div>
-    <div style="float: left;width:50%;"><p class='description'>设置接口测试描述
-可以有多行
-</p></div>
+    <div style="float: left;width:50%;"><p class='description'>longtengtester</p></div>
     <div id="chart" style="width:50%;height:400px;float:left;"></div>
 
         
@@ -231,92 +229,37 @@
             <td>查看</td>
         </tr>
         
-    <tr class='errorClass'>
+    <tr class='passClass'>
         <td>test_add_fuel_card.TestAddFuelCard</td>
-        <td>5</td>
-        <td>3</td>
-        <td>1</td>
-        <td>1</td>
-        <td><a href="javascript:showClassDetail('c1',5)">详情</a></td>
+        <td>4</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td><a href="javascript:showClassDetail('c1',4)">详情</a></td>
     </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='failCase'><div class='testcase'>test_add_3th_fuel_card</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        失败</a>
-
-    <div id='div_ft1.1' class="popup_window">
-        <pre>
-        ft1.1: Traceback (most recent call last):
-  File "H:\python\python15\day4\test_case\test_add_fuel_card.py", line 33, in test_add_3th_fuel_card
-    self.run_case()
-  File "H:\python\python15\day4\test_case\basecase.py", line 35, in run_case
-    self.assertEqual(expect, res.json())
-AssertionError: {'code': 200, 'msg': '添加卡成功', 'success': False} != {'code': 5000, 'msg': '该卡已添加', 'success': False}
-- {'code': 200, 'msg': '添加卡成功', 'success': False}
-?          ^              ---
-
-+ {'code': 5000, 'msg': '该卡已添加', 'success': False}
-?          ^^            +++
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_add_fuel_card_1__1_0___接口_参数正确____POST____http___115_28_108_130_8080_gasStation_process__________dataSourceId___bHRz___methodId___00A___CardInfo____cardNumber___1234567890_______delete_from_CardInfo_where_cardNumber__1234567890________code__200__msg___添加卡成功___success___false___</div></td>
+    <td colspan='5' align='center'>通过</td>
 </tr>
 
 <tr id='pt1.2' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_add_exist_fuel_card</div></td>
+    <td class='none'><div class='testcase'>test_add_fuel_card_2__2_0___参数相同_重复添加____POST____http___115_28_108_130_8080_gasStation_process__________dataSourceId___bHRz___methodId___00A___CardInfo____cardNumber___123456_____________code__5000__msg___该卡已添加___success__false___</div></td>
     <td colspan='5' align='center'>通过</td>
 </tr>
 
 <tr id='pt1.3' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_add_fuel_card</div></td>
+    <td class='none'><div class='testcase'>test_add_fuel_card_3__3_0___同一账号添加第2个加油卡____POST____http___115_28_108_130_8080_gasStation_process__________dataSourceId___bHRz___methodId___00A___CardInfo____cardNumber___0987654321_______delete_from_CardInfo_where_cardNumber__0987654321________code__200__msg___添加卡成功___success__false___</div></td>
     <td colspan='5' align='center'>通过</td>
 </tr>
 
 <tr id='pt1.4' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_add_tow_fuel_card</div></td>
+    <td class='none'><div class='testcase'>test_add_fuel_card_4__4_0___同一账号添加第3个加油卡____POST____http___115_28_108_130_8080_gasStation_process__________dataSourceId___bHRz___methodId___00A___CardInfo____cardNumber___6789054321_______delete_from_CardInfo_where_cardNumber__6789054321________code__200__msg___添加卡成功___success__false___</div></td>
     <td colspan='5' align='center'>通过</td>
 </tr>
 
-<tr id='ft1.5' class='none'>
-    <td class='errorCase'><div class='testcase'>test_error_data</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.5')" >
-        错误</a>
-
-    <div id='div_ft1.5' class="popup_window">
-        <pre>
-        ft1.5: Traceback (most recent call last):
-  File "H:\python\python15\day4\test_case\test_add_fuel_card.py", line 37, in test_error_data
-    self.run_case()
-  File "H:\python\python15\day4\test_case\basecase.py", line 23, in run_case
-    data = json.loads(self.case_data["入参"])
-  File "C:\python3\lib\json\__init__.py", line 354, in loads
-    return _default_decoder.decode(s)
-  File "C:\python3\lib\json\decoder.py", line 339, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-  File "C:\python3\lib\json\decoder.py", line 357, in raw_decode
-    raise JSONDecodeError("Expecting value", s, err.value) from None
-json.decoder.JSONDecodeError: Expecting value: line 1 column 66 (char 65)
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
     <tr class='failClass'>
-        <td>test_binding_fuel_card.TestBindingFuelCard</td>
+        <td>test_query_fuel_card.TestQueryFuelCard</td>
         <td>2</td>
         <td>0</td>
         <td>2</td>
@@ -325,7 +268,7 @@ json.decoder.JSONDecodeError: Expecting value: line 1 column 66 (char 65)
     </tr>
 
 <tr id='ft2.1' class='none'>
-    <td class='failCase'><div class='testcase'>test_binding_exist_fuel_card</div></td>
+    <td class='failCase'><div class='testcase'>test_query_fuel_card_normal_1</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
@@ -335,15 +278,10 @@ json.decoder.JSONDecodeError: Expecting value: line 1 column 66 (char 65)
     <div id='div_ft2.1' class="popup_window">
         <pre>
         ft2.1: Traceback (most recent call last):
-  File "H:\python\python15\day4\test_case\test_binding_fuel_card.py", line 19, in test_binding_exist_fuel_card
-    self.assertEqual(expect, res.json())
-AssertionError: {'code': 5041, 'msg': '卡已经被绑定,无法绑定', 'success': False} != {'code': 5013, 'msg': '加油卡号不存在', 'success': False}
-- {'code': 5041, 'msg': '卡已经被绑定,无法绑定', 'success': False}
-?            -            ^^^^^^^^^^
-
-+ {'code': 5013, 'msg': '加油卡号不存在', 'success': False}
-?             +          ++ ^^^^
-
+  File "H:\python\python15\day5\testcase\test_query_fuel_card.py", line 26, in test_query_fuel_card_normal_1
+    self.assertEqual(expect,res.json())
+AssertionError: {'cod[66 chars]': '1234567890', 'cardStatus': '已经被绑定,正常使用中', [61 chars]True} != {'cod[66 chars]': '19901220', 'cardStatus': '已经被绑定,正常使用中', 'c[259 chars]True}
+Diff is 789 characters long. Set self.maxDiff to None to see it.
 
         </pre>
     </div>
@@ -353,7 +291,7 @@ AssertionError: {'code': 5041, 'msg': '卡已经被绑定,无法绑定', 'succes
 </tr>
 
 <tr id='ft2.2' class='none'>
-    <td class='failCase'><div class='testcase'>test_binding_fuel_card</div></td>
+    <td class='failCase'><div class='testcase'>test_query_fuel_card_normal_2</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
@@ -363,45 +301,18 @@ AssertionError: {'code': 5041, 'msg': '卡已经被绑定,无法绑定', 'succes
     <div id='div_ft2.2' class="popup_window">
         <pre>
         ft2.2: Traceback (most recent call last):
-  File "H:\python\python15\day4\test_case\test_binding_fuel_card.py", line 11, in test_binding_fuel_card
-    self.assertEqual(expect, res.json())
-AssertionError: {'code': 5010, 'msg': '绑定成功', 'result': {'UserId': 6903}, 'success': True} != {'code': 5013, 'msg': '加油卡号不存在', 'success': False}
-- {'code': 5010, 'msg': '绑定成功', 'result': {'UserId': 6903}, 'success': True}
-+ {'code': 5013, 'msg': '加油卡号不存在', 'success': False}
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-    <tr class='failClass'>
-        <td>test_search_fuel_card.TestSearchFuelCard</td>
-        <td>1</td>
-        <td>0</td>
-        <td>1</td>
-        <td>0</td>
-        <td><a href="javascript:showClassDetail('c3',1)">详情</a></td>
-    </tr>
-
-<tr id='ft3.1' class='none'>
-    <td class='failCase'><div class='testcase'>test_search_exist_fuel_card</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft3.1')" >
-        失败</a>
-
-    <div id='div_ft3.1' class="popup_window">
-        <pre>
-        ft3.1: Traceback (most recent call last):
-  File "H:\python\python15\day4\test_case\test_search_fuel_card.py", line 20, in test_search_exist_fuel_card
-    self.assertEqual("成功返回",res.json()["msg"])
-AssertionError: '成功返回' != '无查询信息'
-- 成功返回
-+ 无查询信息
-
+  File "H:\python\python15\day5\testcase\test_query_fuel_card.py", line 32, in test_query_fuel_card_normal_2
+    self.assertEqual(expect,res.json())
+AssertionError: {'code': 200, 'msg': '充值成功', 'result': {'cardBalan[106 chars]True} != {'code': 400, 'msg': '无查询信息', 'success': False}
++ {'code': 400, 'msg': '无查询信息', 'success': False}
+- {'code': 200,
+-  'msg': '充值成功',
+-  'result': {'cardBalance': '20000',
+-             'cardNumber': '0987654321',
+-             'cardStatus': 5010,
+-             'id': 78475776,
+-             'userId': 6786},
+-  'success': True}
 
         </pre>
     </div>
@@ -412,10 +323,10 @@ AssertionError: '成功返回' != '无查询信息'
 
         <tr id='total_row'>
             <td>总计</td>
-            <td>8</td>
-            <td>3</td>
+            <td>6</td>
             <td>4</td>
-            <td>1</td>
+            <td>2</td>
+            <td>0</td>
             <td>&nbsp;</td>
         </tr>
     </table>
@@ -448,9 +359,9 @@ AssertionError: '成功返回' != '无查询信息'
                     radius : '60%',
                     center: ['50%', '60%'],
                     data:[
-                        {value:3, name:'通过'},
-                        {value:4, name:'失败'},
-                        {value:1, name:'错误'}
+                        {value:4, name:'通过'},
+                        {value:2, name:'失败'},
+                        {value:0, name:'错误'}
                     ],
                     itemStyle: {
                         emphasis: {
